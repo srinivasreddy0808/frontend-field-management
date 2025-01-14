@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { PropTypes } from "prop-types";
-import AuthContext from "./authContext";
+import AuthContext from "./AuthContext";
 
 // Auth provider component
 const AuthProvider = ({ children }) => {
